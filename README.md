@@ -42,11 +42,11 @@ The database structure forms the backbone of the Automated Test Platform. It inc
 
 - **Landing Page**:
 The landing page is the first interaction point for users. It provides a welcoming interface with options to log in, register, and access key features of the platform. This page sets the tone for the user experience, highlighting the platform's capabilities and guiding users to their desired actions
-![image](https://github.com/NovioAlexandruRosca/Test-Platform/assets/113398639/df9937cc-34fc-4ebb-9abf-15a769d20dea)
+![image](https://github.com/NovioAlexandruRosca/Test-Platform/assets/113398639/164d1305-7656-4efe-bc5a-c752018771c5)
 
 - **Test Creation Page**:
 The test creation page is a comprehensive interface for administrators. It allows them to design and customize test layouts, select topics, and configure test parameters. This page ensures that admins can create diverse and engaging tests tailored to specific educational needs.
-![image](https://github.com/NovioAlexandruRosca/Test-Platform/assets/113398639/9819dacd-fa97-4b79-849a-9556552baff8)
+![image](https://github.com/NovioAlexandruRosca/Test-Platform/assets/113398639/5ce22400-4001-4dcd-99f6-979190e8912d)
 
 - **Test Taking Page**:
 The test taking page is designed for students to participate in tests. It presents questions in a user-friendly layout, with a countdown timer and options to submit answers. This page ensures a smooth and fair test-taking experience, with automated submission after the designated time.
