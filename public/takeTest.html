@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Page</title>
+    <link rel="stylesheet" href="takeTest.css">
+</head>
+<body>
+
+    <div id="historyButton">
+        <button id="History" >History</button>
+    </div>
+
+    <div id="historyModal" class="modal">
+        <div class="modal-content">
+          <h2>Test History</h2>
+          <p>Here you can find a list of all the tests you have taken</p>
+        </div>
+      </div>
+
+    <div class="container">
+        <h1 id="title"></h1>
+        <form id="codeForm">
+            <label for="testCode">Enter The Test Code:</label><br>
+            <input type="text" id="testCode" name="testCode" required><br><br>
+            <button id="startTestBtn" type="submit">Start Test</button>
+            <div id="errorElement"></div>
+            <button id="logoutBtn" style=" margin-top: 10px;">Logout</button>
+        </form>
+    </div>
+
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <p id="testTitle"></p>
+            <p id="testDescription"></p>
+            <p id="testTime"></p>
+            <div id="modal-body">
+              </div>
+              <button id="submitTestBtn">Submit Test</button>
+        </div>
+    </div>
+    <script src="takeTest.js"></script>
+</body>
+</html>
