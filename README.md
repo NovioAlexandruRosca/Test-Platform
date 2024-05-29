@@ -29,10 +29,10 @@ Detailed Feedback: Insights into correct answers and explanations to aid in lear
 And many more other features you will have to find out for yourself.
 
 ## Tehnologies Used
-Frontend: HTML5 + CSS + JS for a dynamic and responisve user experience.
-Backend: Node.js with Express for efficient handling of test generation and data management.
-Database: PostgresSQK for scalable and flexible data storage of test layouts, user information, and test results.
-Timer Functionality: Backend-driven timing mechanism to ensure accurate test duration and automatic submission.
+- **Frontend**: HTML5 + CSS + JS for a dynamic and responisve user experience.
+- **Backend**: Node.js with Express for efficient handling of test generation and data management.
+- **Database**: PostgresSQK for scalable and flexible data storage of test layouts, user information, and test results.
+- **Timer Functionality**: Backend-driven timing mechanism to ensure accurate test duration and automatic submission.
 
 ## Screenshots
 
